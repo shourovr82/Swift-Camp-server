@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "price": "$1,245.39",
+    "picture": "https://i.ibb.co/Rp2d5pp/5ca0fa757f80a615cb73843bcc8ddb7b-XL.jpg",
+    "name": "High-Dimensional Data Analysis",
+    "subtitle": "A focus on several techniques that are widely used in the analysis of high-dimensional data."
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/zXj7Hcm/amit-ka.jpg",
+    "price": "$3,337.49",
+    "name": "Python Basics for Data Science",
+    "subtitle": "This Python course provides a beginner-friendly introduction to Python for Data Science. Practice through lab exercises, and you'll be ready to create your first Python scripts on your own!"
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/G7n6wry/What-is-data-science-2.jpg",
+    "price": "$2,066.01",
+    "name": "Data Science: Machine Learning",
+    "subtitle": "Build a movie recommendation system and learn the science behind one of the most popular and successful data science techniques."
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/t2fCZxL/sql-for-data-science.jpg",
+    "price": "$3,619.07",
+    "name": "SQL for Data Science",
+    "subtitle": "Learn how to use and apply the powerful language of SQL to better communicate and extract data from databases - a must for anyone working in the data science field."
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/rFdKsPC/Data-Analysis-with-Python.png",
+    "price": "$1,009.57",
+    "name": "Analyzing Data with Python",
+    "subtitle": "Learn how to use and apply the powerful language of SQL to better communicate and extract data from databases - a must for anyone working in the data science field."
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/r54zst3/f11c9289-596e-4c46-a9cb-318052f259ae-0b7656599f64-small.jpg",
+    "price": "$2,010.00",
+    "name": "AI for Everyone: Master the Basics",
+    "subtitle": "Learn what Artificial Intelligence (AI) is by understanding its applications and key concepts including machine learning, deep learning and neural networks."
+  }
+]
