@@ -17,6 +17,13 @@ app.get('/courses', (req, res) => {
 })
 
 
+app.get('/course/:id', (req, res) => {
+  const id = req.params.id;
+  console.log(id);
+  const details = courses.find(n => n.id == id);
+  res.send(details)
+})
+
 
 app.listen(port, () => {
   console.log('swift-camp server running on 5000');
